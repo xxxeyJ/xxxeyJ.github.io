@@ -38,4 +38,4 @@ sekurlsa::logonpasswords
 
 ## Reference
 
-[](https://twitter.com/0gtweet/status/1299071304805560321)
+https://twitter.com/0gtweet/status/1299071304805560321
