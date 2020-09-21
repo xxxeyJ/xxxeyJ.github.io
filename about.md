@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+> I don't wanna see u anymore.
+
 ### More Information
 
 Security Researcher
