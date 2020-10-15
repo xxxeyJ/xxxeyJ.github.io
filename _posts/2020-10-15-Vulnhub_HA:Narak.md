@@ -5,7 +5,6 @@ tags: [Vulnhub, Pentest]
 comments: true
 ---
 
-# VulnHub  HA:Narak Writeup
 ## 前言
 
 * Pentester
@@ -123,9 +122,7 @@ server-status/          [Status: 403, Size: 278, Words: 20, Lines: 10]
 server-status           [Status: 403, Size: 278, Words: 20, Lines: 10]
 style.css               [Status: 200, Size: 23358, Words: 211, Lines: 232]
 tips.txt                [Status: 200, Size: 58, Words: 12, Lines: 2]
-webdav/servlet/org.apache.catalina.servlets.webdavservlet/ [Status: 401, Size: 460, Words: 42, Lines: 15]
 webdav                  [Status: 401, Size: 460, Words: 42, Lines: 15]
-webdav/servlet/org.apache.catalina.servlets.WebdavServlet/ [Status: 401, Size: 460, Words: 42, Lines: 15]
 webdav/index.html       [Status: 401, Size: 460, Words: 42, Lines: 15]
 webdav/servlet/webdav/  [Status: 401, Size: 460, Words: 42, Lines: 15]
 webdav/                 [Status: 401, Size: 460, Words: 42, Lines: 15]
