@@ -23,7 +23,9 @@ comments: true
 
 > Filename: narak.ova   
 > File Size: 791 MB   
+
 * Checksum   
+
 > MD5: C058F595C60923998659C630CEA576E6   
 > SHA1: 1340392A00BE6098CD0AEAFA26D2550FC4F2A459
 
