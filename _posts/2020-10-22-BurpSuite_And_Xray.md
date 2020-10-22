@@ -44,7 +44,7 @@ comments: true
 
 ![](https://tricksongs.com/images/BAX/Vuls.PNG)
 
-当然，也可以在 BurpSuite 中设置上层代理， 进入 **BurpSuite** 中的 **User Options** 模块，可以选择 **Upstream Proxy Servers** 或者 **SOCKS Proxy**，这里值得一提的是 UPS 是基于 HTTP 协议的代理；
+当然，也可以在 BurpSuite 中设置上层代理， 进入 **BurpSuite** 中的 **User Options** 模块，可以选择 **Upstream Proxy Servers** 或者 **SOCKS Proxy**，这里值得一提的是 **Upstream Proxy Servers** 是基于 HTTP 协议的代理；
 
 **Upstream Proxy Servers** 格式如下，**Destination host** 一般设置为通配符即可，表示对 **everything** 都使用代理；
 
