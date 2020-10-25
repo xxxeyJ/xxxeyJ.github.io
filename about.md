@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-> I don't wanna see u anymore.
+> This Is Me.
 
 ### More Information
 
