@@ -8,13 +8,13 @@ permalink: /about/
 
 ### More Information
 
-🚀 Security Researcher
+- 🚀 Security Researcher
 
-👾 Red Team Engineer
+- 👾 Red Team Engineer
 
-🔭 Code Audit Engineer
+- 🔭 Code Audit Engineer
 
-📷 Threat Hunter
+- 📷 Threat Hunter
 
 ### Contact me
 
