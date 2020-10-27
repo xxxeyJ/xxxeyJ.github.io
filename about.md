@@ -8,14 +8,15 @@ permalink: /about/
 
 ### More Information
 
-Security Researcher
+🚀 Security Researcher
 
-Red Team Engineer
+👾 Red Team Engineer
 
-Code Audit Engineer
+🔭 Code Audit Engineer
 
-Threat Hunter
+📷 Threat Hunter
 
 ### Contact me
 
-[xxx3yJ@protonmail.ch](mailto:xxx3yJ@protonmail.ch)
+- 🌌 Twitter: https://twitter.com/xxxeyJ
+- 📫 Email: [xxx3yJ@protonmail.ch](mailto:xxx3yJ@protonmail.ch)
