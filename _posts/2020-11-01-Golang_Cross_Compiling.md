@@ -16,9 +16,9 @@ comments: true
 Windows 10 x64   
 Golang 1.15.3
 
-> 查看 Golang 环境变量( 默认配置 ):
-> Go env
-> Output:
+> 查看 Golang 环境变量( 默认配置 ):   
+> Go env   
+> Output:   
 ```bat
 set GO111MODULE=
 set GOARCH=amd64
@@ -59,7 +59,7 @@ set GOGCCFLAGS=-m64 -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0
 
 ![](https://tricksongs.com/images/Golang_Cross_Compiling/Net.PNG)
 
-> 存在怎样的问题？
+> **存在怎样的问题？**
 
 执行前:
 
@@ -76,9 +76,9 @@ set GOGCCFLAGS=-m64 -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0
 
 > **SET 指令是 Windows 中用于配置临时环境的变量的指令，无法更改 Go env 中的数值，此类方法并不适用于 Windows 平台；**
 
-> 那么如何在 Windows 平台下进行交叉编译?
+> **那么如何在 Windows 平台下进行交叉编译?**
 
-使用 -w 选项添加键值对；
+使用 **-w** 选项添加键值对；
 
 ```BAT
 go env -w GOOS=linux
@@ -92,7 +92,7 @@ go env -w CGO_ENABLED=0
 
 ![](https://tricksongs.com/images/Golang_Cross_Compiling/GOOS.PNG)
 
-CGO_ENABLED 最好设置为 0，由于我的测试程序本质上实现的是一个提供基础输出功能的程序，所以 CGO_ENABLED 设置为 1 也没有什么特别大的影响，但是如果是将其用于编译一个跨平台程序的时候还是要将其设置为 0 的，这是因为如果将 CGO_ENABLED 设置为 1 时可以在用于构建程序的操作系统上动态加载本机库，在考虑到多平台交叉编译时，将 CGO_ENABLED 设置为 1 并不是一个特别好的想法；
+**CGO_ENABLED 最好设置为 0**，由于我的测试程序本质上实现的是一个提供基础输出功能的程序，所以 CGO_ENABLED 设置为 1 也没有什么特别大的影响，但是如果是将其用于编译**多平台程序**的时候还是要将其设置为 0 的，这是因为如果将 CGO_ENABLED 设置为 1 时可以在用于构建程序的操作系统上动态加载本机库，在考虑到**多平台交叉编译时**，将 **CGO_ENABLED** 设置为 1 并不是一个特别好的想法；
 
 ## 之余
 
