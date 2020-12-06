@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-> This Is Me.
-
 ### More Information
 
 - 🚀 Security Researcher
