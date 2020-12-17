@@ -8,6 +8,8 @@ permalink: /about/
 
 - 🚀 Security Researcher
 
+- ❤️ Blockchain Security Researcher
+
 - 👾 Red Team Engineer
 
 - 🔭 Code Audit Engineer
