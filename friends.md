@@ -7,5 +7,5 @@ permalink: /friends/
 
 | ID | Blog |
 | :----: | :-----: |
-| Zgao   | https://zgao.top |
-| Search?=Null (佳总) | https://exp1orer.github.io |
+| Zgao   | (https://zgao.top)[https://zgao.top] |
+| Search?=Null (佳总) | (https://exp1orer.github.io)[https://exp1orer.github.io] |
