@@ -4,4 +4,8 @@ title: Friends
 permalink: /friends/
 ---
 
-[Zgao](https://zgao.top/)
+
+| ID | Blog |
+| :----: | :-----: |
+| Zgao   | https://zgao.top |
+| Search?=Null (佳总) | https://exp1orer.github.io |
